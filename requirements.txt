@@ -1,0 +1,15 @@
+# Çalıştırmak için temel gereksinimler
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+
+# Notebook çalıştırma
+jupyter
+ipykernel
+
+# (Opsiyonel) Veri edinimi için
+# yfinance
